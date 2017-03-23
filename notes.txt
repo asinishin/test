@@ -16,3 +16,4 @@ including versions of Lorem Ipsum.
 
 II
 Here goes the next chapter for the test of merge.
+Here goes an update for the second commit.
