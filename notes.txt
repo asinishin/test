@@ -26,3 +26,6 @@ The next chapter
 
 V
 The final story
+
+VI 
+Fixed bug
