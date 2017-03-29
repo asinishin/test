@@ -29,3 +29,5 @@ The final story
 
 VI 
 Fixed bug
+
+Another bug
