@@ -30,5 +30,5 @@ The final story
 VI 
 Fixed bug
 
-Another bug
-Fix Security issue
+VII
+Implement password security
