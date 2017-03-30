@@ -31,4 +31,4 @@ VI
 Fixed bug
 
 VII
-Implement password security
+Implement password security.
